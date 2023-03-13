@@ -1,0 +1,7 @@
+мар. 13, 2023 10:36:24 AM seminars.homework.hw_02.task_03 writeLog
+INFO: 5 + 4 = 9,00
+
+мар. 13, 2023 10:44:03 AM seminars.homework.hw_02.task_03 writeLog
+INFO: 5 / 0 = Делить на ноль нельзя.
+мар. 13, 2023 10:45:20 AM seminars.homework.hw_02.task_03 writeLog
+INFO: 7 & 9 = Введена некорректная операция.

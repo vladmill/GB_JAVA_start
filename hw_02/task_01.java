@@ -16,7 +16,7 @@ public class task_01 {
         String pathFile = pathProject.concat("/log.txt");
 
         Logger logger = Logger.getLogger(task_01.class.getName());
-        FileHandler logFile = new FileHandler(pathFile);
+        FileHandler logFile = new FileHandler(pathFile, true);
         logger.addHandler(logFile);
 
         SimpleFormatter sFormat = new SimpleFormatter();
