@@ -1,10 +1,8 @@
 package seminars.homework.hw06;
 
-import java.util.Arrays;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.LinkedHashMap;
 import java.util.Scanner;
 import java.util.Set;
 
